@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/android-github-browser-app-therealabaaskills.iml" filepath="$PROJECT_DIR$/.idea/android-github-browser-app-therealabaaskills.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitHub_Browser.iml" filepath="$PROJECT_DIR$/.idea/modules/gitHub_Browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gitHub_Browser.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gitHub_Browser.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gitHub_Browser.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gitHub_Browser.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gitHub_Browser.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gitHub_Browser.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gitHub_Browser.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gitHub_Browser.app.unitTest.iml" />
     </modules>
   </component>
 </project>

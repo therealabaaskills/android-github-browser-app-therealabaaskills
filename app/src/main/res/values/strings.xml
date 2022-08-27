@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">gitHub Browser</string>
+    <string name="github_icon">gitHub icon</string>
+    <string name="enter_a_github_username">Enter a github username</string>
+    <string name="username_can_not_be_empty">Username is empty</string>
+    <string name="unable_to_get_repo">Unable to get repositories</string>
+    <string name="internal_server_error">Internal server error</string>
+    <string name="unauthorized">Unauthorized</string>
+    <string name="forbidden">Forbidden</string>
+    <string name="user_not_found">The user does\'nt exist</string>
+    <string name="try_another_user">Try another user</string>
+    <string name="public_repo">Public</string>
+    <string name="private_repo">Private</string>
+    <string name="number_of_repos">%1$d Repositories</string>
+    <string name="repo_license_not_found">Not license found in this repository</string>
+</resources>
